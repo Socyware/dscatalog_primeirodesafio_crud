@@ -1,0 +1,5 @@
+package com.socyware.dscatalog_primeirodesafio_crud.entity;
+
+public class Client {
+
+}

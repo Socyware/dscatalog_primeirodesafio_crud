@@ -1,0 +1,13 @@
+package com.socyware.dscatalog_primeirodesafio_crud.entity;
+
+import java.time.Instant;
+
+public class Client {
+	
+	private Long id;
+	private String name;
+	private Double cpf;
+	private Instant birthDate;
+	private Integer children;
+
+}
